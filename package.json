@@ -1,0 +1,14 @@
+{
+  "name": "SCBDBD",
+  "version": "1.0.0",
+  "description": "StarCraft Bound Database",
+  "author": "Kenneth Allen",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
